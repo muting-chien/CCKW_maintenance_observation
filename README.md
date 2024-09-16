@@ -1,2 +1,2 @@
-# CCKW_aquaplanet
-This repository contains my code and data for a journal article entitled "Response of convectively coupled Kelvin waves to surface temperature forcing". This article is submitted to the Journal of Advances in Modeling Earth Systems. 
+# CCKW_maintenance_observation
+This repository contains my code and data for a journal article entitled "Maintenance of convectively coupled Kelvin waves: relative importance of internal thermodynamic feedback and external momentum forcing". This article will be submitted to the Geophysical Research Letters. 
